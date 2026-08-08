@@ -6,7 +6,7 @@ I went for Subnet in Virtual Private Cloud section, and I clicked on create subn
 
 I configured the new subnet as demanded
 
-![](3.2.g)
+![](3.2.png)
 
 Finally my new subnet is created successfully.
 
