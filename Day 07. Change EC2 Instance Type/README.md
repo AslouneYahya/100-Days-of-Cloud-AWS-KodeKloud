@@ -1,5 +1,4 @@
-# Day 4: Enable Versioning for S3 Bucket
-
+# Day 7: Change EC2 Instance Type
 After logging in, I searched for EC2 section,
 
 ![](7.1.png)
