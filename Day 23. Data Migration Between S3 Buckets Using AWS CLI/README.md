@@ -4,7 +4,7 @@ Using aws cli, I identified my current region, listed my s3 buckets, created a n
 
 ![](23.1.png)
 
-To verify that the synchronization went successfully, I compared the number of files and storage of each, which turned out to be equal, which means the synchronization went successfully
+To verify that the synchronization went successfully, I compared the number of files and size of each, which turned out to be equal, which means the synchronization went successfully
 
 ![](23.2.png)
 
