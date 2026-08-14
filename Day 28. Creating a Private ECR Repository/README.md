@@ -10,7 +10,7 @@ I created a new ecr repository
 
 ![](28.4.png)
 
-In as-client, I linked my docker application with my ecr repository that I just created
+In aws-client, I linked my docker application with my ecr repository that I just created
 
 ![](28.5.png)
 
