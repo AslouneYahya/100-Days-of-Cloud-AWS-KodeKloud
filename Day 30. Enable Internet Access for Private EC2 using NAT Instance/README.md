@@ -22,7 +22,7 @@ I created a new internet gayeway then I attached it to my private vpc
 
 ![](30.9.png)
 
-I created a new riute table in my private vpc, then I added my newky created internet gateway to it, then I associated it to my public subnet
+I created a new route table in my private vpc, then I added my newky created internet gateway to it, then I associated it to my public subnet
 
 ![](30.10.png)
 
