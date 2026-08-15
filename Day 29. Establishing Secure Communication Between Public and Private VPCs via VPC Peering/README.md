@@ -44,7 +44,7 @@ To establish ssh connection, I copied my aws-client public key to my public ec2 
 
 ![](29.18.png)
 
-I was able to make a ssh connection to public ec2 intace, and I was able to ping my private ec2 instance from public one using private ipv4 address of my private ec2 instance
+I was able to make a ssh connection to public ec2 instance, and I was able to ping my private ec2 instance from public one using private ipv4 address of my private ec2 instance
 
 ![](29.19.png)
 
