@@ -1,6 +1,6 @@
 # Day 42: Building and Managing NoSQL Databases with AWS DynamoDB
 
-I created a new DynamoDB table 
+I created a new IAM role for cluster 
 ![](42.1.png)
 
 ![](42.2.png)
