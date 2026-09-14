@@ -23,5 +23,7 @@ Then I created my new eks cluster, and I attached my newly created IAM role to i
 
 ![](43.10.png)
 
+I waited until my cluster is in active status, verified its configuration, then validated the challenge
+
 ![](43.11.png)
 
